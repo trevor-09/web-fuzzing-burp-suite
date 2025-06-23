@@ -41,4 +41,5 @@ This project demonstrates how to analyze and manipulate HTTP requests using Burp
 ## 📚 Status
 
 ✅ Completed – Submitted on **20 June 2025**  
-🎓
+🎓 Part of academic cybersecurity coursework  
+🛡️ Focused on ethical learning and responsible testing
