@@ -65,6 +65,7 @@ Displays the results of each payload sent via Intruder, showing status and lengt
 
 ## 📚 Status
 
-✅ Completed – Submitted on **20 June 2025**  
-🎓 Part of academic cybersecurity coursework  
-🛡️ Focused on ethical learning and responsible testing
+✅ Completed – as part of the **Web Security Bootcamp by Devtown**  
+📅 Submitted on **20 June 2025**  
+🎓 Hands-on practical project focusing on HTTP requests, Burp Suite, and input fuzzing  
+🛡️ All testing was done ethically in a controlled local environment using DVWA
