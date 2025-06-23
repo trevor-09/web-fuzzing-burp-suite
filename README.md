@@ -38,6 +38,31 @@ This project demonstrates how to analyze and manipulate HTTP requests using Burp
 
 ---
 
+## 📷 Screenshots
+
+### 📸 Screenshot 1: DVWA Login Page with Burp Intercepting POST Request
+Shows the DVWA login form with Burp Suite capturing the login request to `/login.php`.  
+![Screenshot 1](screenshots/Screenshot%202025-06-20%20195405.png)
+
+---
+
+### 📸 Screenshot 2: Burp Suite – Intercepted POST Request to Login
+Displays the raw intercepted request with `username=test` and request body parameters.  
+![Screenshot 2](screenshots/Screenshot%202025-06-20%20195546.png)
+
+---
+
+### 📸 Screenshot 3: Burp Suite Intruder – Payload Position and Payload List
+Shows the configured position on the `username` field and the list of fuzzing inputs.  
+![Screenshot 3](screenshots/Screenshot%202025-06-20%20200903.png)
+
+---
+
+### 📸 Screenshot 4: Intruder Attack Results
+Displays the results of each payload sent via Intruder, showing status and length differences.  
+![Screenshot 4](screenshots/Screenshot%202025-06-20%20200845.png)
+
+
 ## 📚 Status
 
 ✅ Completed – Submitted on **20 June 2025**  
